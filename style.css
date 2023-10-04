@@ -1,0 +1,17 @@
+#home{
+
+	background-color: #ffc107;
+	color: white;
+	margin: 0 auto;
+}
+
+#container{
+	padding: 0 15px;
+}
+
+#box{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+
